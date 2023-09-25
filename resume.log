@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2023.6.20)  18 JUL 2023 23:04
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2023.6.20)  23 SEP 2023 06:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1310,10 +1310,6 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.47441pt on input line 74.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
 (Font)              scaled to size 20.0pt on input line 74.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 74.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 74.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 74.
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/it' will be
@@ -1361,27 +1357,31 @@ Overfull \hbox (2.92001pt too wide) in paragraph at lines 18--26
 ) (cv/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 25.
-) (cv/projects.tex) (cv/skills.tex) (cv/interests.tex
+) (cv/projects.tex) (cv/skills.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 5.
+(Font)              scaled to size 8.0pt on input line 4.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 5.
-
-[1
+(Font)              scaled to size 8.0pt on input line 4.
+ [1
 
 ]
+Overfull \hbox (7.5786pt too wide) in alignment at lines 11--26
+[] [] 
+ []
+
+) (cv/interests.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 20.
+(Font)              scaled to size 9.00096pt on input line 18.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 20.
+(Font)              scaled to size 6.00064pt on input line 18.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 20.
+(Font)              scaled to size 5.00053pt on input line 18.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 20.
+(Font)              scaled to size 8.99904pt on input line 18.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 20.
+(Font)              scaled to size 5.99936pt on input line 18.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 20.
+(Font)              scaled to size 4.99947pt on input line 18.
 ) (cv/languages.tex)
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 97.
@@ -1391,11 +1391,11 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40155 strings out of 410532
- 809672 string characters out of 2812081
- 1748485 words of memory out of 3000000
- 60734 multiletter control sequences out of 15000+600000
- 473409 words of font info for 135 fonts, out of 8000000 for 9000
+ 40151 strings out of 410532
+ 809463 string characters out of 2812081
+ 1750448 words of memory out of 3000000
+ 60732 multiletter control sequences out of 15000+600000
+ 473393 words of font info for 133 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  114i,11n,127p,606b,848s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
